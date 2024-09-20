@@ -15,7 +15,7 @@ on whatever you would like to see.
 The script imports the authentication object which is just called 'reddit' from a 
 file called key.py. To create credentials, create an app with a Reddit account.
 
-![Create a Reddit App](https://old.reddit.com/prefs/apps/)
+[Create a Reddit App](https://old.reddit.com/prefs/apps/)
 
 Then update the following code in the *key.py* file
 ```python
