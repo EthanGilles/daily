@@ -4,6 +4,4 @@
 "LaTeX",
 "news",
 "stocks",
-"portlandme",
-"Maine",
 "shittysuperpowers"
