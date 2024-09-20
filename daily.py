@@ -1,7 +1,5 @@
 import praw
-import sys
 import re
-sys.path.append("..") 
 from key import *
 
 print("\033[0;35m\n Thanks for running the\033[0;31m DAILY\033[0;35m script! Here's your daily Reddit feed: \033[0m \n \n \n")
