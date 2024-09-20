@@ -34,7 +34,7 @@ Now you're all set to run the script! If you want to be fancy, you can add
 a command to your *.bashrc* file to run the script as well. Here is my example:
 
 ```bash 
-alias daily="python3 /python/daily/daily.py"
+alias daily="python3 ~/python/daily/daily.py"
 ```
 
 ## Example Output
