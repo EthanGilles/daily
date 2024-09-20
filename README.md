@@ -15,7 +15,7 @@ on whatever you would like to see.
 The script imports the authentication object which is just called 'reddit' from a 
 file called key.py. To create credentials, create an app with a Reddit account.
 
-![Create a Reddit App][https://old.reddit.com/prefs/apps/]
+![Create a Reddit App](https://old.reddit.com/prefs/apps)
 
 Then update the following code in the *key.py* file
 ```python
@@ -44,11 +44,17 @@ Thanks for running the DAILY script! Here's your daily Reddit feed:
    From r/news
 
 -> Chechen warlord accuses Elon Musk of ‘remotely disabling’ his Cybertruck
+
 -> FTC sues drug middlemen for allegedly inflating insulin prices
+
 -> Flight diverted after passenger finds live mouse in meal
+
 
    From r/stocks
 
 -> Intel approached by Qualcomm for a possible takeover of chip design business -- WSJ
+
 -> FTC sues drug middlemen (UNH, CVS, CI) for allegedly inflating insulin prices
+
 -> A Three Mile Island nuclear reactor could restart under a new deal with Microsoft
+
