@@ -44,11 +44,17 @@ Thanks for running the DAILY script! Here's your daily Reddit feed:
    From r/news
 
 -> Chechen warlord accuses Elon Musk of ‘remotely disabling’ his Cybertruck
+
 -> FTC sues drug middlemen for allegedly inflating insulin prices
+
 -> Flight diverted after passenger finds live mouse in meal
+
 
    From r/stocks
 
 -> Intel approached by Qualcomm for a possible takeover of chip design business -- WSJ
+
 -> FTC sues drug middlemen (UNH, CVS, CI) for allegedly inflating insulin prices
+
 -> A Three Mile Island nuclear reactor could restart under a new deal with Microsoft
+
